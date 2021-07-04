@@ -7,6 +7,7 @@ It is a simple directory structure branched into test and train and further bran
 1.	Covid-19 infected
 2.	Normal
 3.	Viral Pneumonia
+
 It  contains around 137 cleaned images of COVID-19 and 317 in total containing Viral Pneumonia and Normal Chest X-Rays structured into the test and train directories.
 
 Description:	
